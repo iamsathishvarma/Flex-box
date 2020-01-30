@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;
+     }
+     html{background-image: url(./images/BG);
+     background-size: cover;}
+.Container{background-color: rgba(0, 0, 0, 0.75);
+         display: flex;
+         width: 1028px;
+        margin: auto;}
+.nav-bar{color:white;
+       padding: 10px;
+      margin: 10px;
+    font-size: 30px;}
+
+.about-us{margin-left: auto; margin-right: 30px;
+         background-color:rgb(207, 16, 175); border-radius: 50px;
+         font-size: 25px;
+
+        }
+  .main{margin-left: 20px;}
+  img{width: 200px;}
