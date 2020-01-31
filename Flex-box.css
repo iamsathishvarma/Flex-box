@@ -1,20 +1,36 @@
-*{margin: 0; padding: 0;
-     }
-     html{background-image: url(./images/BG);
-     background-size: cover;}
-.Container{background-color: rgba(0, 0, 0, 0.75);
-         display: flex;
-         width: 1028px;
-        margin: auto;}
-.nav-bar{color:white;
-       padding: 10px;
-      margin: 10px;
-    font-size: 30px;}
+*{margin: 0; padding: 0;}
 
-.about-us{margin-left: auto; margin-right: 30px;
-         background-color:rgb(207, 16, 175); border-radius: 50px;
-         font-size: 25px;
+html{background-image:url(./images/BG);
+    background-size: cover;}
 
-        }
-  .main{margin-left: 20px;}
-  img{width: 200px;}
+.Container{background-color: rgba(0, 0, 0, 0.596);
+         display:flex; }
+
+.ex1{padding:20px; font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif; }
+ 
+a{color: white; text-decoration: none;}
+a:hover{color: salmon;}
+
+.ex5{margin-left: auto; margin-right: 100px;}
+.ex2,.ex3,.ex4{margin-left: 50px;
+ }
+
+
+
+.ex6:hover{color:rgb(255, 0, 119); background-color: thistle;}
+.ex6{background-color: rgb(255, 0, 234); padding: 15px;
+   border-radius: 40px; }
+
+
+
+
+
+
+ 
+ 
+
+ 
+  
+
+ 
