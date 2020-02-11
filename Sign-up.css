@@ -1,0 +1,63 @@
+body{margin: 0;
+    padding: 0;
+  background-image: url(./images/Login-BG-02.jpg);
+ background-position: center;
+background-size: cover;
+
+}
+
+.sign-up-form
+
+{width: 400px;
+padding: 20px;
+margin: 10% auto 0;
+background-color: #fff;
+box-shadow: 1px 1px 5px #000000;
+text-align: center;
+
+}
+
+.input-box{
+padding: 20px;
+margin: 10px 0;
+background: rgba(238, 223, 223, 0.41);
+outline:none;
+ border: 2px solid #7B0E7D;
+border-radius: 5px;
+width: 90%;
+}
+
+h2
+{
+  color: #7B0E7D;
+  padding: px;
+}
+
+img
+{margin-top: -70px;
+width: 100px;}
+
+button{padding: 15px;
+   margin: 10px 0;
+ background-color: #7B0E7D;
+border-radius: 30px;
+outline: none;
+border: none;
+width: 90%;
+color: #fff;
+font-size: 20px;}
+
+button:hover{background-color: #fff;
+color: #7B0E7D; border: 2px solid #7B0E7D;}
+
+
+
+.sign-in
+{margin-top: 10px 0;
+font-size: 25px;}
+a{
+  color: #7B0E7D;
+  text-decoration: none;
+}
+
+a:hover{color: blue;}
