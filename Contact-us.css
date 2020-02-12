@@ -1,0 +1,69 @@
+body{margin: 0;
+     padding: 0;
+    text-align: center;
+background: linear-gradient(rgba(0,0,150,0.5),rgba(0,0,50,0.6)),url(./images/Contact-us-BG.jpg);
+
+background-size: cover;}
+
+.Contact-text{
+margin: 100px;
+font-family: sans-serif;
+transition: all 2s ease-in-out;
+color: white;
+}
+h1{
+    font-size: 35px;
+    line-height: 20px;
+}
+
+h2{
+    font-size: 20px;
+    color: rgb(226, 207, 207);
+}
+
+.Contact-us-title{
+       
+    margin-top: 30px;
+    transition: all 2s ease-in-out;
+
+}
+
+input{
+    width: 500px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    background: transparent;
+    border-bottom: 1px solid white ;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+}
+
+textarea{
+    width: 500px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    background: transparent;
+    border-bottom: 1px solid white ;
+    
+    color: white;
+    font-size: 20px;
+}
+
+button{
+
+    background-color: rgb(206, 41, 12);
+    border: none;
+    outline: none;
+    height: 60px;
+    width: 500px;
+    color: white;
+    font-size: 25px;
+}
+
+.button-form:hover{
+    background-color: white;
+    color: rgb(206, 41, 12);
+}

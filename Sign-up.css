@@ -14,6 +14,7 @@ margin: 10% auto 0;
 background-color: #fff;
 box-shadow: 1px 1px 5px #000000;
 text-align: center;
+transition: all 2s ease-in-out;
 
 }
 
@@ -25,6 +26,7 @@ outline:none;
  border: 2px solid #7B0E7D;
 border-radius: 5px;
 width: 90%;
+
 }
 
 h2
