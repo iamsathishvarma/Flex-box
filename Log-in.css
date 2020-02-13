@@ -1,0 +1,76 @@
+body{margin: 0;
+    padding: 0;
+  background-image: url(./images/Login-BG-02.jpg);
+ background-position: center;
+background-size: cover;
+
+}
+
+.sign-up-form
+
+{width: 450px;
+padding: 20px;
+margin: 10% auto 0;
+background-color: #fff;
+box-shadow: 1px 1px 5px #000000;
+text-align: center;
+transition: all 2s ease-in-out;
+
+}
+
+.input-box{
+padding: 20px;
+margin: 10px 0;
+background: rgba(238, 223, 223, 0.41);
+outline:none;
+ border: 2px solid #7B0E7D;
+border-radius: 5px;
+width: 90%;
+
+}
+
+h2
+{
+  color: #7B0E7D;
+  padding: px;
+}
+
+img
+{margin-top: -70px;
+width: 100px;}
+
+button{padding: 15px;
+   margin: 10px 0;
+ background-color: #7B0E7D;
+border-radius: 30px;
+outline: none;
+border: none;
+width: 90%;
+color: #fff;
+font-size: 20px;}
+
+button:hover{background-color: #fff;
+color: #7B0E7D; border: 2px solid #7B0E7D;}
+
+.main{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.buttom{margin-right:15px;
+text-decoration: none;
+color: #7B0E7D;}
+
+#button{margin-left: 40px;
+  color:slateblue;
+text-decoration: none;}
+
+h3{margin-left: 20px;
+margin-top: -25px;}
+
+.buttom:hover{color: slateblue;}
+#button:hover{color:#7B0E7D;}
+
+
+
+
