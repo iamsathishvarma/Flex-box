@@ -1,6 +1,6 @@
 *{margin: 0; padding: 0;}
 
-body{background-image: url(./images/Login-BG-02.jpg);
+body{ background:linear-gradient(to right, rgb(0, 4, 40), rgb(0, 78, 146));
 background-position: center;
 background-size: cover;
 /* background-repeat: no-repeat;} */}

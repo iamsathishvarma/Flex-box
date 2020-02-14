@@ -1,13 +1,15 @@
 body{margin: 0;
      padding: 0;
     text-align: center;
-background: linear-gradient(rgba(0,0,150,0.5),rgba(0,0,50,0.6)),url(./images/Contact-us-BG.jpg);
+ background:linear-gradient(to right, rgb(0, 4, 40), rgb(0, 78, 146));
+background-size: cover;
+ font-family: 'Sriracha', cursive;
 
-background-size: cover;}
+}
 
 .Contact-text{
 margin: 100px;
-font-family: sans-serif;
+
 transition: all 2s ease-in-out;
 color: white;
 }
@@ -18,7 +20,7 @@ h1{
 
 h2{
     font-size: 20px;
-    color: rgb(226, 207, 207);
+    color: rgb(255, 255, 255);
 }
 
 .Contact-us-title{
@@ -35,7 +37,8 @@ input{
     margin: 10px;
     background: transparent;
     border-bottom: 1px solid white ;
-    height: 40px;
+    /* height: 40px; */
+    padding: 10px;
     color: white;
     font-size: 20px;
 }
@@ -54,7 +57,7 @@ textarea{
 
 button{
 
-    background-color: rgb(206, 41, 12);
+    background-color:#7B0E7D;
     border: none;
     outline: none;
     height: 60px;
@@ -65,5 +68,5 @@ button{
 
 .button-form:hover{
     background-color: white;
-    color: rgb(206, 41, 12);
+    color: #7B0E7D;
 }

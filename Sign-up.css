@@ -1,8 +1,10 @@
 body{margin: 0;
     padding: 0;
-  background-image: url(./images/Login-BG-02.jpg);
+ background:linear-gradient(to right, rgb(0, 4, 40), rgb(0, 78, 146));
  background-position: center;
 background-size: cover;
+ font-family: 'Racing Sans One', cursive;
+
 
 }
 
@@ -11,7 +13,7 @@ background-size: cover;
 {width: 400px;
 padding: 20px;
 margin: 10% auto 0;
-background-color: #fff;
+background: #fff;
 box-shadow: 1px 1px 5px #000000;
 text-align: center;
 transition: all 2s ease-in-out;
@@ -47,7 +49,9 @@ outline: none;
 border: none;
 width: 90%;
 color: #fff;
-font-size: 20px;}
+font-size: 20px;
+font-family: 'Racing Sans One', cursive;
+}
 
 button:hover{background-color: #fff;
 color: #7B0E7D; border: 2px solid #7B0E7D;}
